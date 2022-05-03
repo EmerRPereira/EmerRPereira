@@ -6,6 +6,9 @@
 
 - 👋 Oi, Eu sou @EmerRPereira
 - 👀 Eu tenho interesse em Scratch, JavaScript, GitHub, HTML, CSS ...
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 - 🌱 Eu estou aprendendo neste momento Scratch e JavaScript ...
 - 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante ...
 - 📫 Como entrar em contato comigo, através pemerson@escola.pr.gov.br ...
@@ -30,6 +33,8 @@
 ![Imagem1](https://w7.pngwing.com/pngs/54/13/png-transparent-brain-computer-interface-human-brain-brain-computer-people-human-brain-thumbnail.png)
 
 ![Imagem2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yx7objiMYf8sgslnSP-mKeq0jDw2rsBk9lucxsyOruPB8aZ-xBllUoEwOO0H--iboc4&usqp=CAU)
+
+![Imagem3](https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1463570-1000-1000/988907.jpg?v=637830370980700000)
 
 --->
 EmerRPereira/EmerRPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
