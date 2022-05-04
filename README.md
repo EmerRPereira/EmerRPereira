@@ -34,7 +34,7 @@
 
 ![Imagem2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yx7objiMYf8sgslnSP-mKeq0jDw2rsBk9lucxsyOruPB8aZ-xBllUoEwOO0H--iboc4&usqp=CAU)
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
 
 --->
 EmerRPereira/EmerRPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
