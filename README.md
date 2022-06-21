@@ -1,8 +1,8 @@
 # Meu perfil pessoal
 ## Áreas de interesse
-### Teste 01 Tamanho
-#### Teste 02 Tamanho
-##### Teste 03 Tamanho
+### Teste 03 Tamanho
+#### Teste 04 Tamanho
+##### Teste 05 Tamanho
 
 - 👋 Oi, Eu sou @EmerRPereira
 - 👀 Eu tenho interesse em Scratch, JavaScript, GitHub, HTML, CSS ...
@@ -13,7 +13,11 @@
 - 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante ...
 - 📫 Como entrar em contato comigo, através pemerson@escola.pr.gov.br ...
 
+↪️ 🌳 
+
 *:book: Livro aberto!*
+
+**:book: Livro!**
 
 *:card_index_dividers: Pastas*
 
@@ -30,7 +34,8 @@
 #### :arrow_double_down: [Tags e acompanhamento de projetos](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100577)
 #### :arrow_double_down: [Licenças e uso](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100578)
 ---
-![Imagem1](https://w7.pngwing.com/pngs/54/13/png-transparent-brain-computer-interface-human-brain-brain-computer-people-human-brain-thumbnail.png)
+
+<img src="https://w7.pngwing.com/pngs/54/13/png-transparent-brain-computer-interface-human-brain-brain-computer-people-human-brain-thumbnail.png" width="50" height="50"/>
 
 ![Imagem2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yx7objiMYf8sgslnSP-mKeq0jDw2rsBk9lucxsyOruPB8aZ-xBllUoEwOO0H--iboc4&usqp=CAU)
 
