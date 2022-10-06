@@ -13,6 +13,10 @@
 - 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante ...
 - 📫 Como entrar em contato comigo, através pemerson@escola.pr.gov.br ...
 
+:car:
+
+:pen:
+
 🚜
 
 ↪️ 🌳 
