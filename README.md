@@ -1,16 +1,16 @@
 # Meu perfil pessoal
 ## Áreas de interesse
-### Teste 03 Tamanho
-#### Teste 04 Tamanho
-##### Teste 05 Tamanho
+### Programação
+#### Inovação
+##### Facilidade
 
 - 👋 Oi, Eu sou @EmerRPereira
 - 👀 Eu tenho interesse em Scratch, JavaScript, GitHub, HTML, CSS ...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-- 🌱 Eu estou aprendendo neste momento Scratch e JavaScript ...
-- 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante ...
+- 🌱 Eu estou aprendendo neste momento Scratch, JavaScript, Python, Web designer ...
+- 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante, estudante da BYU-Idaho ...
 - 📫 Como entrar em contato comigo, através pemerson@escola.pr.gov.br ...
 
 :car:
