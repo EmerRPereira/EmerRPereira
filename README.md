@@ -31,8 +31,6 @@
 
 <img src="https://w7.pngwing.com/pngs/54/13/png-transparent-brain-computer-interface-human-brain-brain-computer-people-human-brain-thumbnail.png" width="50" height="50"/>
 
-![Imagem2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yx7objiMYf8sgslnSP-mKeq0jDw2rsBk9lucxsyOruPB8aZ-xBllUoEwOO0H--iboc4&usqp=CAU)
-
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
 
 --->
