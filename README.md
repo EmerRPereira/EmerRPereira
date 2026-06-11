@@ -1,40 +1,28 @@
-# Meu perfil pessoal
-## Áreas de interesse
-### Programação
-#### Inovação
-##### Facilidade
+# 👋 Olá, eu sou Emerson Ronald Pereira
 
-- 👋 Oi, Eu sou @EmerRPereira
-- 👀 Eu tenho interesse em Scratch, JavaScript, GitHub, HTML, CSS ...
+## Sobre mim
+- 🎓 Licenciado em **Matemática com habilitação em Física** (UEPG) e atualmente cursando **Software Development** na BYU-Idaho.
+- 🧑‍🏫 Professor de Matemática e Física há mais de 25 anos (Secretaria de Educação do Paraná).
+- 💻 Em transição de carreira para **Desenvolvimento Web**.
+- 🌍 Inglês itermediário para leitura e escrita técnica.
+- 🔭 No momento focado em: **C#**, **JavaScript**, **React**, **HTML, CSS**.
+- 🤝 Procuro colaborar em projetos de **educação tecnológica (EdTechs)**.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emerson-r-pereira/) | [E-mail](mailto:pemerson@escola.pr.gov.br)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## 🚀 Projetos em destaque
+- JavaScript, HTML/CSS - Diversos no Repositório
+- C# - Análise de dados
+- Jogo PONG em JavaScript - Lógica de programação
 
-- 🌱 Eu estou aprendendo neste momento Scratch, JavaScript, Python, Web designer ...
-- 💞️ Eu estou procurando por colaboradores, pois ainda sou um iniciante, estudante da BYU-Idaho ...
-- 📫 Como entrar em contato comigo, através pemerson@escola.pr.gov.br ...
-
-:car:
-
-:pen:
-
-🚜
-
-↪️ 🌳 
-
-*:book: Livro aberto!*
-
-**:book: Livro!**
-
-*:card_index_dividers: Pastas*
-
-***:mailbox: Correspondências***
+## 📚 Disciplinas concluídas na BYU-Idaho
+- CSE110, CSE111, CSE210, CSE212 (C#)
+- WDD130, WDD131, WDD231, WDD330 (HTML, CSS, JavaScript, React)
 
 ---
 ### - Links abaixo são do curso da Alura sobre o GitHub
 
 #### :arrow_double_down: [Criando uma conta GitHub](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100573)
 #### :arrow_double_down: [Edição de perfil](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100574)
-
 #### :arrow_double_down: [Criando o primeiro repositório](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100575)
 #### :arrow_double_down: [Criar um Arguivo e GitHub Pages](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100576)
 #### :arrow_double_down: [Tags e acompanhamento de projetos](https://cursos.alura.com.br/course/github-criando-portifolio-digital/task/100577)
